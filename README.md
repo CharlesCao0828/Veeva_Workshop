@@ -103,7 +103,7 @@ def lambda_handler(event, context):
     }
 ```
 
-### 3.1.4 Lottery-ValidateWinners-\<username> 函数
+### 3.1.4 Lottery-RecordWinners-\<username> 函数
 
 ```
 import json
